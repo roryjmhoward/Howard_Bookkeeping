@@ -1,5 +1,8 @@
 <?php
-    $email=$_POST['roryhoward@hotmail.co.uk'];
+
+    //var_dump($_POST); 
+
+    $email='roryhoward@hotmail.co.uk';
     $subject = 'Contact Request';
     $message = 'yes';
 
